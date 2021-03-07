@@ -10,7 +10,7 @@
 
 <body>
   <p>Coba git remote</p>
-  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis debitis, ipsa iusto natus id impedit veritatis perspiciatis quas, quia officia quis at molestias quibusdam saepe consectetur minus autem dolore neque!</p>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis debitis, ipsa iusto natus id impedit veritatis perspiciatis quas, quia officia quis at molestias quibusdam saepe consectetur minus autem </p>
 </body>
 
 </html>
